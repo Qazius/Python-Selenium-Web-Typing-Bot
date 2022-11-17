@@ -8,6 +8,9 @@
 
 types fast when you tell it to, automatically, because ur bad
 
+_50 words, 3000wpm on monkeytype_\
+<img src="assets/3000wpm.png" alt="3000wpm" width="500"/>
+
 ## how it works
 
 opens website of choice by input using tkinter entry and uses tkinter button to start typing without restarting\
@@ -35,7 +38,7 @@ unique delays are added to special characters like `!@#$%^&*()` etc, to make the
 - TypeRacer
   - flags anti-cheat at high wpm
 - monkeytype
-  - infinite wpm
+  - infinite wpm (3000)
 
 ### modules / libraries in use
 
