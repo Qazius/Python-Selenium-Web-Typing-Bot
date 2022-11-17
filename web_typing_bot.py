@@ -21,7 +21,7 @@ startDelay=2 #in seconds
 
 # add wait here for keys with unique delay
 tabSize=3
-typeInterval=0.00 #default 0.08 (about 110wpm)
+typeInterval=0.08 #default 0.08 (about 110wpm)
 specialInterval=0.09 #default 0.09
 waitTab=0.1 #default 0.1
 waitWord=0.08 #changing to word #default 0.08
